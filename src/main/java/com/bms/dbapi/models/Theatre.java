@@ -14,7 +14,7 @@ import java.util.UUID;
 @Getter
 @Setter
 
-public class theatre {
+public class Theatre {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
